@@ -9,8 +9,7 @@ import ast
 
 
 class Client:
-
-    HOST = '10.0.0.138'  # The server's hostname or IP address
+    
     PORT = 9090  # The port used by the server
 
     def __init__(self):
